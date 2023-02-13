@@ -1,0 +1,21 @@
+title: Notes
+description: A compilation of notes from the South Asian Diasporas course taught by Professor Smitha Radhakrishnan at Wellesley College
+baseurl: "/s23-south-asian-diasporas"
+url: "https://intermezzio.me"
+
+remote_theme: just-the-docs/just-the-docs
+
+exclude:
+  - README.md
+
+aux_links:
+  "Notes on GitHub":
+    - "//github.com/intermezzio/s23-south-asian-diasporas"
+
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 Andrew Mascillaro."
+
