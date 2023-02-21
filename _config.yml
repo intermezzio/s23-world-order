@@ -2,6 +2,7 @@ title: HIST-205 Notes
 description: A compilation of notes from the South Asian Diasporas course taught by Professor Smitha Radhakrishnan at Wellesley College
 baseurl: "/s23-world-order"
 url: "https://intermezzio.me"
+markdown: pandoc
 
 remote_theme: just-the-docs/just-the-docs
 
